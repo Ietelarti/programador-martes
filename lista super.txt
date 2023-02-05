@@ -3,3 +3,7 @@ pan
 queso
 mateca
 leche
+banana 
+manzana 
+palta 
+naranja
